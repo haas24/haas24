@@ -1,4 +1,7 @@
-### Hi there 👋
+🌷 Oie, me chamo Hayu
+↪ Curso Alura
+↪ Desenvolvendo o JavaScript
+↪ Organização e compartilhamento dos projetos desenvolvidos
 
 <!--
 **haas24/haas24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
