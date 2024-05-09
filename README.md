@@ -1,4 +1,4 @@
-###SEJAM BEM VINDOS!
+### SEJAM BEM VINDOS!
 
 🌷 Oie, me chamo Hayu
 ↪ Curso Alura
